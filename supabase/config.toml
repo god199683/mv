@@ -1,0 +1,2 @@
+[functions.grok-video]
+verify_jwt = true
